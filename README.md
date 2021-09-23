@@ -13,3 +13,6 @@
 - Add new cells by hovering on the divider between each cell
 
 All of you changes get saved to the file you open Docspad with. So if you ran <b>npx docspad serve test.js</b>, all of the text and code you write will be saved to the <b>tes.js file</b>.
+
+Click here to download in npm:
+[docspad](https://www.npmjs.com/package/docspad)
