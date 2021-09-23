@@ -1,5 +1,5 @@
 {
-  "name": "docupad",
+  "name": "docspad",
   "version": "2.2.0",
   "description": "",
   "bin": "dist/index.js",
@@ -17,13 +17,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@docupad/local-client": "^2.2.0"
+    "@docspad/local-client": "^2.2.0"
   },
   "devDependencies": {
-    "@docupad/local-api": "^2.2.0",
+    "@docspad/local-api": "^2.2.0",
     "@types/node": "^14.14.22",
     "commander": "^7.0.0",
     "esbuild": "0.8.26",
     "typescript": "^4.1.3"
-  }
+  },
+  "gitHead": "61b7d40752eca66d48c2d5bed1432d1cdf01a56a"
 }

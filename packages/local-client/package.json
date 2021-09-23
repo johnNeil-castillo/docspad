@@ -1,5 +1,5 @@
 {
-  "name": "@docupad/local-client",
+  "name": "@docspad/local-client",
   "version": "2.2.0",
   "publishConfig": {
     "access": "public"
@@ -65,5 +65,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "gitHead": "61b7d40752eca66d48c2d5bed1432d1cdf01a56a"
 }

@@ -23,7 +23,7 @@ export const serve = (
     );
   } else {
     const packagePath = require.resolve(
-      "@docupad/local-client/build/index.html"
+      "@docspad/local-client/build/index.html"
     );
     app.use(express.static(path.dirname(packagePath)));
   }
